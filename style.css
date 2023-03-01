@@ -5,9 +5,7 @@
 .aaa{
     text-decoration: none;
 }
-.hover:hover{
-    color: #5E17EB;
-}
+
 
 pos{
     position: fixed ;
@@ -48,7 +46,7 @@ pos{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 779px;
+    min-height: 790px;
     
 }
 .button1{
@@ -62,7 +60,7 @@ pos{
     color: white;
     margin: 0;
   position: absolute;
-  top: 610px;
+  top: 600px;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -115,7 +113,7 @@ li{
     list-style: none;
 }
 .button1:hover{
-    background-color: black;
+    background-color: white;
     color:  #5E17EB;
     border-color: #5E17EB;
 }
@@ -133,7 +131,7 @@ navbar.center .navbar-inner {
     }
 
     .sub:hover{
-        background-color: black;
+        background-color: white;
         color: #5E17EB;
         border-color: #5E17EB;
     }
@@ -142,3 +140,7 @@ navbar.center .navbar-inner {
     background-color: #5E17EB;
     color: white;
 }
+.show > .nav-link,
+  .nav-link.active {
+    color: #5E17EB;
+  }
