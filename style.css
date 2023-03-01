@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.aaa{
+    text-decoration: none;
+}
+.hover:hover{
+    color: #5E17EB;
+}
+
+pos{
+    position: fixed ;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+#mb{
+    margin-top: 200px;
+}
+.margin{
+    margin-top: 200px;
+}
+.aa{
+    text-decoration: none;
+}
+#pl1{
+    /* padding-left: 370px; */
+}
+
+.footer{
+    background-color: #323C5C;
+}
+
+.login{
+    color: blueviolet;
+    text-decoration: none;
+}
+.h111{
+    color: #5E17EB;
+}
+.p11{
+    color: #707070;
+}
+.section1{
+    background: url(./img/11062b_4bbeb076691b4370bc020616b5613edd_mv2.jpg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 779px;
+    
+}
+.button1{
+    /* height: 49px;
+    width: 177px;
+    left: 631px;
+    top: 785.5000457763672px; */
+    border-radius: 12px;
+    padding: 12px 29px 11px 29px;
+    background-color: #5E17EB;
+    color: white;
+    margin: 0;
+  position: absolute;
+  top: 630px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    /* margin-top: 749px; */
+}
+.color{
+    color:  #5E17EB;
+}
+.lead{
+    /* height: 49px;
+    width: 378px;
+    left: 531px;
+    top: 2677px; */
+    border-radius: 12px;
+    padding: 12px 29px 11px 29px;
+    border-color: #5E17EB;
+    background-color: aliceblue;
+}
+.aboutus{
+    height: 376px;
+    width: 100%;
+    left: 89px;
+    top: 2861px;
+    border-radius: 12px;
+    padding: 56px 90px 56px 90px;
+    background-color: #69648C;
+    color: white;
+
+}
+.email{
+    border-radius: 10px;
+    padding: 10px;
+    width: 60%;
+    height: 39px;
+}
+.sub{
+    height: 41px;
+    /* width: 210px; */
+    /* left: 464px; */
+    top: 0px;
+    border-radius: 12px;
+    padding: 10px 32px 10px 32px;
+    background-color: #5E17EB;
+    color: white;
+
+
+}
+
+li{
+    list-style: none;
+}
+.button1:hover{
+    background-color: black;
+    color:  #5E17EB;
+    border-color: #5E17EB;
+}
+.navbar {
+    background-color: white;
+}
+
+navbar.center .navbar-inner {
+    text-align: center;
+    }
+    
+    .navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+    }
+
+    .sub:hover{
+        background-color: black;
+        color: #5E17EB;
+        border-color: #5E17EB;
+    }
+
+.lead:hover{
+    background-color: #5E17EB;
+    color: white;
+}
