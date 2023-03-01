@@ -1,4 +1,4 @@
-*{
+*{  
     margin: 0;
     padding: 0;
 }
@@ -87,7 +87,7 @@ pos{
     left: 89px;
     top: 2861px; */
     border-radius: 12px;
-    padding: 56px 90px 56px 90px;
+    /* padding: 56px 90px 56px 90px; */
     background-color: #69648C;
     color: white;
 
