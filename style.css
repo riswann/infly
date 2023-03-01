@@ -20,7 +20,7 @@ pos{
     margin-top: 200px;
 }
 .margin{
-    margin-top: 200px;
+    /* margin-top: 200px; */
 }
 .aa{
     text-decoration: none;
@@ -82,10 +82,10 @@ pos{
     background-color: aliceblue;
 }
 .aboutus{
-    height: 376px;
+    /* height: 376px;
     width: 100%;
     left: 89px;
-    top: 2861px;
+    top: 2861px; */
     border-radius: 12px;
     padding: 56px 90px 56px 90px;
     background-color: #69648C;
