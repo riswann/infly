@@ -140,7 +140,11 @@ navbar.center .navbar-inner {
     background-color: #5E17EB;
     color: white;
 }
-.show > .nav-link,
-  .nav-link.active {
-    color: #5E17EB;
-  }
+
+.fz{
+    font-size: 60px;
+}
+.faq{
+    
+    margin-left: 300px;
+}
