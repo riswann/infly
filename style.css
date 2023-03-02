@@ -148,3 +148,18 @@ navbar.center .navbar-inner {
     
     margin-left: 300px;
 }
+.buynow{
+    border-radius: 10px;
+    padding: 6px;
+    width: 40%;
+    background-color: #2342B0;
+    color: white;
+}
+.view{
+    border-radius: 10px;
+    padding: 6px;
+    width: 40%;
+    border-color: #8EBF80;
+    color: #8EBF80;
+    background-color: white;
+}
