@@ -163,3 +163,14 @@ navbar.center .navbar-inner {
     color: #8EBF80;
     background-color: white;
 }
+
+.buynow:hover{
+    background-color: white;
+    color: #2342B0;
+    border-color: #2342B0;
+}
+.view:hover{
+    background-color: #8EBF80;
+    color: white;
+    border: white;
+}
