@@ -196,3 +196,17 @@ navbar.center .navbar-inner {
     color: white;
 }
 
+
+.test{
+
+    width: 160px;
+    height: 548px;
+    
+
+    background: #323C5C;
+}
+
+
+.content{
+    line-height: 50px;
+}
