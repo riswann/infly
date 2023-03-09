@@ -200,12 +200,16 @@ navbar.center .navbar-inner {
 .test{
 
     width: 160px;
-    height: 548px;
+    height: 660px;
     
 
     background: #323C5C;
 }
-
+@media (max-width: 575.98px) { 
+    .test{
+        height: auto;
+    }
+ }
 
 .content{
     line-height: 50px;
@@ -215,4 +219,12 @@ navbar.center .navbar-inner {
     border-radius: 36px;
     padding: 5px;
     border-color: #FFCCBF;
+}
+td,tr{
+    border-bottom: 2px solid white !important;
+    padding-top: 33px !important;
+    padding-bottom: 33px !important;
+}
+.bdnone{
+    border-bottom: none !important;
 }
