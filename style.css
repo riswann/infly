@@ -6,6 +6,19 @@
     text-decoration: none;
 }
 
+.sss{
+    background-image: url(./img/Vector\ 5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+
+}
+
+.buy-all{
+    padding: 8px;
+    border-radius: 25px;
+    background-color: #F7D460;
+}
 
 pos{
     position: fixed ;
@@ -42,10 +55,7 @@ pos{
     color: #707070;
 }
 .section1{
-    background: url(./img/11062b_4bbeb076691b4370bc020616b5613edd_mv2.jpg.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #5E17EB;
     min-height: 790px;
     
 }
