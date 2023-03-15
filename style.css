@@ -7,11 +7,26 @@
 }
 
 .sss{
-    background-image: url(./img/Vector\ 5.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
+    position: absolute;
+    width: 300.04px;
+    height: 300.46px;
+    left: 855.49px;
+    top: 96.77px;
+    bottom: ;
+    
+}
+.star{
+    margin-left: 115px;
+}
 
+.list{
+    margin-top: 150px;
+
+    padding-bottom: 400px;
+}
+
+.image{
+    padding-top: 80px  ;
 }
 
 .buy-all{
