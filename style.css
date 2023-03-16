@@ -256,7 +256,15 @@ td,tr{
 .sp{
     border-radius: 11px;
     padding: 10px;
-    width: 14%;
+    width: 19%;
+    background-color: #5E17EB;
+    color: white;
+    margin-top: 50px;
+}
+.spp{
+    border-radius: 11px;
+    padding: 10px;
+    width: 40%;
     background-color: #5E17EB;
     color: white;
     margin-top: 50px;
@@ -267,3 +275,6 @@ td,tr{
     background: white;
     border-color: black;
 }
+
+
+
