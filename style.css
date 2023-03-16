@@ -261,3 +261,9 @@ td,tr{
     color: white;
     margin-top: 50px;
 }
+.rate{
+    border-radius: 10px;
+    width: 23%;
+    background: white;
+    border-color: black;
+}
