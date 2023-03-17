@@ -276,5 +276,17 @@ td,tr{
     border-color: black;
 }
 
+.hvr :hover{
+    height: 270px;
+    
+}
+.hvr{
+    transition: 3s;
+}
 
-
+.rtt{
+    height: 40px;
+    background: white;
+    color: black;
+    border-color: black;
+}
