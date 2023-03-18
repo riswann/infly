@@ -33,6 +33,7 @@
     padding: 8px;
     border-radius: 25px;
     background-color: #F7D460;
+    color: ;
 }
 
 pos{
@@ -290,3 +291,34 @@ td,tr{
     color: black;
     border-color: black;
 }
+
+
+  
+  .floating-btn {
+    position: fixed;
+    background-color: #5E17EB;
+    color: #f1f5f1;
+    left:0%;
+    top: 30%;
+    height: 150px;
+    width: 70px;
+    margin: 0;
+    border-radius: 0 5px 5px 0;
+    transition: 0.3s linear;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+ 
+  
+  
+  p.float-txt {
+    transform:rotate(270deg);
+    text-align: center;
+    top: 30%;
+    margin: 0;
+    padding: 0;
+    left: 1%;
+    text-decoration: none;
+  }
