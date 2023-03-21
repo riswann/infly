@@ -6,6 +6,19 @@
     text-decoration: none;
 }
 
+.header-sectn{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.vector{
+    position: relative;
+    width: 1027px;
+    bottom: 20px;
+}
+
 .sss{
     position: absolute;
     width: 300.04px;
@@ -33,7 +46,8 @@
     padding: 8px;
     border-radius: 25px;
     background-color: #F7D460;
-    color: ;
+    color: black;
+   
 }
 
 pos{
@@ -146,6 +160,35 @@ li{
 .navbar {
     background-color: white;
 }
+
+
+.overlay{
+    height: 100%;
+    width: 0%;
+    max-width: 35%;
+    position: fixed;
+    z-index: 1;
+    top:0;
+    right: 0;
+    background-color:white;
+    overflow-x: hidden;
+    transition: 1s;
+
+} 
+
+
+.options {
+    display:grid;
+    justify-items: left;
+
+}
+.close1{
+    padding-left: 60px;
+    filter: invert(1);
+    
+}
+
+
 
 navbar.center .navbar-inner {
     text-align: center;
@@ -322,3 +365,4 @@ td,tr{
     left: 1%;
     text-decoration: none;
   }
+  
