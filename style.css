@@ -47,7 +47,7 @@
     border-radius: 25px;
     background-color: #F7D460;
     color: black;
-   
+    width: 140%;
 }
 
 pos{
@@ -333,6 +333,9 @@ td,tr{
     background: white;
     color: black;
     border-color: black;
+    border-radius: 9px;
+    padding: 7px;
+
 }
 
 
